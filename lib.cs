@@ -2,6 +2,6 @@ public class Calculator
 {
 	public int Add()
 	{
-		return 3 + 2;
+		return 32 + 2;
 	}
 }
